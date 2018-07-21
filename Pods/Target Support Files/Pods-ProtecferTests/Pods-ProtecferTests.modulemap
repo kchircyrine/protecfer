@@ -1,0 +1,6 @@
+framework module Pods_ProtecferTests {
+  umbrella header "Pods-ProtecferTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CardIO (5.4.1)
+  - KeychainAccess (3.1.1)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - PusherSwift (5.1.1)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - KeychainAccess
+  - PayPal-iOS-SDK
+  - PusherSwift (~> 5.0)
+  - Toast-Swift (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CardIO
+    - KeychainAccess
+    - PayPal-iOS-SDK
+    - PusherSwift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  PusherSwift: de9238b6b9faec5275d452e5f43ce9c82b78731e
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 25ac3afb341caadeafc463fc0172624199655a13
+
+COCOAPODS: 1.5.3
